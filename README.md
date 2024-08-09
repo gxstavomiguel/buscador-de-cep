@@ -1,1 +1,2 @@
-Aplicativo simples feito com Javascript e React para obter informações de determinado CEP.
+# zip-code-finder
+Simple application made with javascript to locate certain places through zip code
